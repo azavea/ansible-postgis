@@ -9,4 +9,5 @@
 - name: Install PostGIS
   apt: pkg={{ item }} state=present
   with_items:
+    - liblwgeom-2.1.2={{ postgis_package_version }}
     - postgresql-{{ postgresql_version }}-postgis-{{ postgis_version }}={{ postgis_package_version }}
