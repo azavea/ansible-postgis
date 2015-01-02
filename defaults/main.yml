@@ -1,3 +1,5 @@
 ---
 postgis_version: "2.1"
 postgis_package_version: "2.1.2+dfsg-2"
+postgis_liblwgeom_version: "2.1.2"
+postgis_liblwgeom_package_version: "2.1.2+dfsg-2"
