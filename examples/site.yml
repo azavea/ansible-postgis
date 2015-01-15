@@ -1,4 +1,9 @@
 ---
 - hosts: all
+
+  vars:
+    postgresql_version: "9.3"
+    postgresql_package_version: "9.3.5-2.pgdg14.04+1"
+
   roles:
     - { role: "azavea.postgis" }
