@@ -1,3 +1,8 @@
+## 0.2.1
+
+- Make use of version blob.
+- Confirm PostgreSQL 9.4 support.
+
 ## 0.2.0
 
 - Remove explicit PostGIS library geometry library installation.
