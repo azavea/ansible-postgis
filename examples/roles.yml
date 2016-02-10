@@ -1,0 +1,2 @@
+- src: azavea.postgresql
+  version: 0.3.0
