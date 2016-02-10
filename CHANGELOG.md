@@ -1,3 +1,7 @@
+## 0.3.0
+
+- Add support for Ansible 2.0.
+
 ## 0.2.1
 
 - Make use of version blob.
